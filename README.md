@@ -1,1 +1,3 @@
-# devops-netology
+# devops-netoloH
+
+Репозиторий создан для выполнения заданий по курсу DevOps.
