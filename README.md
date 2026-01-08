@@ -2,7 +2,7 @@
 
 `terraform/.gitignore`:
 
-.terraform/
+- .terraform/
 *.tfstate
 *.tfstate.backup
 *.tfvars
